@@ -100,7 +100,7 @@ const Auth = () => {
           // {'Content-Type': 'application/json'} // 有formData 之后我们不再需要header + data
           // headers + data ： 告知backend 的 use 函数，传入的req 带有附加数据，请使用这些req.data以完成对该 POST req 的处理。
         );
-        auth.login(responseData.userId); // 仅在无err时call login 
+        auth.login(responseData.userId, responseData.token); // 仅在无err时call login 
       } catch(err){}
     }
   };
