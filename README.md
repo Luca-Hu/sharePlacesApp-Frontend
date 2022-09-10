@@ -5,8 +5,13 @@ This Web Application's name is sharePlacesApp.
 
 It is a fullstack React.js application with Node.js, Express.js & MongoDB (MERN).  
 
-It is an amazing Web application for Real Time photo sharing, which is similar to apps like Instagram in function. You can create your own account and post the pictures you want to share on your own homepage. The application also allows you to edit and delete your own images. Meanwhile, the GoogleMap API will automatically locate your typed address on the map, and anyone can view your location from GoogleMap.
+It is an amazing Web application for Real Time photo sharing, which is similar to apps like Instagram in function. You can create your own account (password will be hashed) and post the pictures you want to share on your own homepage. The application also allows you to edit and delete your own images. Meanwhile, the GoogleMap API will automatically locate your typed address on the map, and anyone can view the Google Map location corresponding to each picture.
 
+It has been deployed on Heroku, so you can access it through the link below:
+
+https://shareplacesappyihu.web.app/
+
+Before you enter this link, please read the follow information to learn more about this application.
 
 -----------------------------------
 
@@ -26,43 +31,57 @@ Details:
 
 ------------------------------
 
-3、Web Application Function Description
+3、Access to Test
 
 
+It has been deployed on Heroku so you can access it through this link：
 
-------------------------------
-
-4、Access to Test
-
-
-It has been deployed on Heroku so you can access it through these links：
+https://shareplacesappyihu.web.app/
 
 (Note: Since no cloud like AWS S3 is used to save images, all images will not be permanently saved, which is a drawback.）
 
-- As administraters of the website:
 
-https://shopme-admin-yihu.herokuapp.com/
+You can login default user1 's account : Email: test1@test.com ， Password:tester
 
-You can login by account : Email: nar@test.com ， Password:tester
+(Tips: All default users' initial password is "tester", you can login other default users' account: test(1~6)@test.com )
 
-(Tips: All users/staff and customers' initial password is "tester", you can try other roles like admin or salesman, shipper, these roles has different authentications.)
 
-- As visitors and customers:
+-----------
 
-https://shopme-frontend-yihu.herokuapp.com/
+4、 Main Functions of This Application 
 
-You have 3 ways to enter:
+- As a visitor, you can enter other user's homepage and view their posted picture and Google Map location corresponding to each picture.
 
-1 You can view the products without login.
+- You can click "Authentication" button at the top right to signup/login. If you signup, you will login automatically.
 
-2 You can signup a new customer account and then login.
+- After you login, you can access to two modules: "My Places" and "Add Place". In "Add Place" module, you can create new post to share where you are and add your review. In "My Places" module, you can edit/delete your places.
 
-3 You can login by account : Email: beth@gmail.com , Password:tester
+- The application uses the site Token to maintain auto-login and auto-logout within an hour. Even if you don't actively logout, your account will be automatically logged out after an hour.
 
-// --------------------------------------
+
+----------------------------------
 
 5、 Demonstration
 
+- This Web Application's HomePage :
+
+![image](https://user-images.githubusercontent.com/69294450/189479638-db253fdd-0ee5-40b8-b038-1304184b990d.png)
+
+- Everyone can View the Google Map location corresponding to each picture:
+
+![image](https://user-images.githubusercontent.com/69294450/189479574-0895fb61-e5c7-4736-869a-b078df825955.png)
+
+- After login, you can edit/delete your places in "My Places" module:
+
+![image](https://user-images.githubusercontent.com/69294450/189479663-17c426e2-86e5-46cb-b72f-306d964254e5.png)
+
+- After login, you can share your places in "New Place" module:
+
+![image](https://user-images.githubusercontent.com/69294450/189479911-5dc6c36f-7491-4e35-9f62-f1e34cd2f069.png)
+
+- Password saved as Hash value in database:
+
+![image](https://user-images.githubusercontent.com/69294450/189479116-17341d3b-8e5a-42a0-b153-7526eb64b652.png)
 
 
 // --------------------------------------
