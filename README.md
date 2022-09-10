@@ -1,5 +1,3 @@
-// --------------------------------------
-
 1、Introduction
 
 
@@ -7,10 +5,10 @@ This Web Application's name is sharePlacesApp.
 
 It is a fullstack React.js application with Node.js, Express.js & MongoDB (MERN).  
 
-It is an amazing Web application for Real Time photo sharing, which is similar to apps like Instagram in function. You can create your own account and post the pictures you want to share on your own homepage. The application also allows you to edit and delete your own images.
+It is an amazing Web application for Real Time photo sharing, which is similar to apps like Instagram in function. You can create your own account and post the pictures you want to share on your own homepage. The application also allows you to edit and delete your own images. Meanwhile, the GoogleMap API will automatically locate your typed address on the map, and anyone can view your location from GoogleMap.
 
 
-// --------------------------------------
+-----------------------------------
 
 2、The technologies involved in this project
 
@@ -19,37 +17,20 @@ I use VSCode IDE to build this application. The backend part uses Express.js fra
 
 Details: 
 
-- FrontEnd: React.js
+- FrontEnd: React.js, RESTful API (GoogleMap)
 - Server: Node.js/Express.js
 - Database: MongoDB
 - Authentication & Authorization: JWT(JSON Web Token) in React
 - BackEnd Standalone Deployment: Heroku  
 - FrontEnd Standalone Deployment: Firebase Hosting 
 
-// --------------------------------------
+------------------------------
 
 3、Web Application Function Description
 
 
-Shopme App is a complete shopping website. You can test both as a administrater and as a customer.
 
-- As a administrater of the website, 
-
-you can manage the users(employees)，categories, products, customers and orders. 
-
-To be specific, you can view, sort, search, create, edit, delete them. The data will be updated in visitor& customer-side.
-
-For example, you can create a new category, and then create a new product under that new category, these updates will shown on the visitor& customer-side.
-
-- As a visitor & customer, 
-
-you can view products by category or search specific product. But you should sign up and login if you want add products to your cart.
-
-Then you can view your checkout information in your cart, like items you added and the subtotal.
-
-After you place order, the order data will be updated in administrater-side. Shopme staff will deliver the product to your address!
-
-// --------------------------------------
+------------------------------
 
 4、Access to Test
 
