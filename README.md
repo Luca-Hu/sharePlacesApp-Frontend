@@ -1,3 +1,5 @@
+// This Readme file is the same as "sharePlacesApp-Backend"'s Readme
+
 1、Introduction
 
 
