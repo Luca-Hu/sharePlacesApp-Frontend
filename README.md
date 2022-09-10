@@ -7,7 +7,7 @@ This Web Application's name is sharePlacesApp.
 
 It is a fullstack React.js application with Node.js, Express.js & MongoDB (MERN).  
 
-It looks like a Real Time photo-sharing application like Instagram. It is a Web application for Real Time photo sharing, which is similar to apps like Instagram in function. You can create your own account and post the pictures you want to share on your homepage. The application also allows you to modify and delete your own images.
+It is an amazing Web application for Real Time photo sharing, which is similar to apps like Instagram in function. You can create your own account and post the pictures you want to share on your own homepage. The application also allows you to edit and delete your own images.
 
 
 // --------------------------------------
@@ -19,12 +19,12 @@ I use VSCode IDE to build this application. The backend part uses Express.js fra
 
 Details: 
 
-- FrontEnd View Layer: JQuery, Thymeleaf, Bootstrap, etc
-- Server: Hibernate, Spring Data JPA, etc
-- Database: MySQL
-- Authentication & Authorization: Spring Security
-- Unit Test: JUnit, AssertJ and Mockito
-- FrontEnd & BackEnd Deployment: Heroku
+- FrontEnd: React.js
+- Server: Node.js/Express.js
+- Database: MongoDB
+- Authentication & Authorization: JWT(JSON Web Token) in React
+- BackEnd Standalone Deployment: Heroku  
+- FrontEnd Standalone Deployment: Firebase Hosting 
 
 // --------------------------------------
 
