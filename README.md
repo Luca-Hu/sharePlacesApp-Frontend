@@ -4,16 +4,18 @@
 
 
 This Web Application's name is sharePlacesApp.
+
 It is a fullstack React.js application with Node.js, Express.js & MongoDB (MERN).  
 
-This full-stack app was built by me while I was taking Nam Ha Minh's Spring Boot course. It writen mainly by Java, also include some Javascript & HTML & CSS. It has been deployed on Heroku and you can access it by following the link below.
+It looks like a Real Time photo-sharing application like Instagram. It is a Web application for Real Time photo sharing, which is similar to apps like Instagram in function. You can create your own account and post the pictures you want to share on your homepage. The application also allows you to modify and delete your own images.
+
 
 // --------------------------------------
 
 2、The technologies involved in this project
 
 
-Both the front and back ends use SpringToolSuite IDE (Eclipse-based), use Spring Boot as the framework to write Java.
+I use VSCode IDE to build this application. The backend part uses Express.js framework, and the frontend part uses React.js framework.
 
 Details: 
 
