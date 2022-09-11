@@ -56,11 +56,11 @@ You can login default user1 's account : Email: test1@test.com ， Password:test
 
 As a visitor, you can enter other user's homepage, view their posted picture and click the "View On Map" button to check the location on Google Map. But visitor can not edit/delete other user's places.
 
-- 2、 Signup & Signin
+- 2、Signup & Signin
 
  You can click "Authentication" button at the top right to signup/login. If you signup, you will login automatically.
 
-- 3、Share Place
+- 3、Upload Images To Share
 
 After you login, you can access to two modules: "My Places" and "Add Place". In "Add Place" module, you can create new post to share where you are and add your review. In "My Places" module, you can edit/delete your places.
 
