@@ -76,7 +76,7 @@ After you login, you can access to two modules: "My Places" and "Add Place". In 
 
 - 5、Locate address By Google Map API
 
-When you create new post of place, you need to type a valid address or a keyword so that the Google Map API can automatically locate an accrate address on map. You can view the result by click the "View On Map" button after posting. 
+When you create new post of place, you need to type a valid address or unique keywords so that the Google Map API can automatically locate an accrate address on map. You can view the result by click the "View On Map" button after posting. 
 
 - 6、Auto Log-in/Log-out ( By using Token )
 
