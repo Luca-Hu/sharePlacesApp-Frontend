@@ -13,7 +13,7 @@ It has been deployed on Heroku, so you can access it through the link below:
 
 https://shareplacesappyihu.web.app/
 
-<Please wait patiently to Link response>
+< Please wait patiently for the reponse of page. >
 
 Before you enter this link, please read the follow information to learn more about this application.
 
@@ -42,7 +42,9 @@ It has been deployed on Heroku so you can access it through this link：
 
 https://shareplacesappyihu.web.app/
 
-(Note: Since no cloud like AWS S3 is used to save images, all images will not be permanently saved, which is a drawback.）
+< Please wait patiently for the reponse of page. >
+
+<Note: Since no cloud like AWS S3 is used to save images, all images will not be permanently saved, which is a drawback.>
 
 
 You can login default user1 's account : Email: test1@test.com ， Password:tester
