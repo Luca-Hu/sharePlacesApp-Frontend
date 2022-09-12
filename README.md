@@ -13,6 +13,8 @@ It has been deployed on Heroku, so you can access it through the link below:
 
 https://shareplacesappyihu.web.app/
 
+<Please wait patiently to Link response>
+
 Before you enter this link, please read the follow information to learn more about this application.
 
 -----------------------------------
