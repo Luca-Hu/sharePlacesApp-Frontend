@@ -60,7 +60,7 @@ You can login default user1 's account : Email: test1@test.com ， Password:test
 
 As a visitor, you can enter other user's homepage, view their posted picture and click the "View On Map" button to check the location on Google Map. But visitor can not edit/delete other user's places.
 
-- 2、User Signup & Signin
+- 2、User Sign-up & Sign-in
 
  You can click "Authentication" button at the top right to signup/login. If you signup, you will login automatically.
 
@@ -72,7 +72,7 @@ After you login, you can access to two modules: "My Places" and "Add Place". In 
 
 When you create new post of place, you need to type a valid address or a keyword so that the Google Map API can automatically locate an accrate address on map. You can view the result by click the "View On Map" button after posting. 
 
-- 5、Auto Login/Logout - Token
+- 5、Auto Log-in/Log-out - Token
 
 The application uses the site Token to maintain auto-login and auto-logout within an hour. Even if you don't actively logout, your account will be automatically logged out after an hour.
 
