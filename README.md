@@ -63,16 +63,20 @@ As a visitor, you can enter other user's homepage, view their posted picture and
 - 2、User Sign-up & Sign-in
 
  You can click "Authentication" button at the top right to signup/login. If you signup, you will login automatically.
+ 
+- 3、Edit & Delete your post
 
-- 3、Upload Images To Share
+ You can edit your post information or delete your post in "My Places".
+
+- 4、Upload Images To Share
 
 After you login, you can access to two modules: "My Places" and "Add Place". In "Add Place" module, you can create new post to share where you are and add your review. In "My Places" module, you can edit/delete your places.
 
-- 4、Locate address By Google Map API
+- 5、Locate address By Google Map API
 
 When you create new post of place, you need to type a valid address or a keyword so that the Google Map API can automatically locate an accrate address on map. You can view the result by click the "View On Map" button after posting. 
 
-- 5、Auto Log-in/Log-out - Token
+- 6、Auto Log-in/Log-out ( By using Token )
 
 The application uses the site Token to maintain auto-login and auto-logout within an hour. Even if you don't actively logout, your account will be automatically logged out after an hour.
 
