@@ -46,9 +46,10 @@ https://shareplacesappyihu.web.app/
 <Note: Since no cloud like AWS S3 is used to save images, all images will not be permanently saved, which is a drawback.>
 
 
-You can login default user1 's account : Email: test1@test.com ， Password:tester
+You can click "Authentication" button in the nav bar to login default user1 's account : Email: test1@test.com ， Password:tester
 
 (Tips: All default users' initial password is "tester", you can login other default users' account: test(1~6)@test.com )
+
 
 
 -----------
@@ -84,7 +85,7 @@ The application uses the site Token to maintain auto-login and auto-logout withi
 
 5、 Demonstration
 
-- This Web Application's HomePage :
+- This Web Application's HomePage("All Users" module). You can click other user's photo to browser their posts:
 
 ![image](https://user-images.githubusercontent.com/69294450/189479638-db253fdd-0ee5-40b8-b038-1304184b990d.png)
 
