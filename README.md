@@ -43,13 +43,15 @@ https://shareplacesappyihu.web.app/
 
 < Please wait patiently for the reponse of page. >
 
-<Note: Since no cloud like AWS S3 is used to save images, all images will not be permanently saved, which is a drawback.>
+< Note: Since no cloud like AWS S3 is used to save images, all images will not be permanently saved, which is a drawback. >
 
+The homepage is "ALL USERS" page, you can click the user-photos to browser their post(s). If you want use "ADD PLACE" module to create a new post, or use "MY PLACE" module to browser/edit/delete your post(s), you need sign up or sign in.
 
-You can click "Authentication" button in the nav bar to login default user1 's account : Email: test1@test.com ， Password:tester
+You can click "Authentication" button in the nav bar to login default user1 's account : **Email: test1@test.com ， Password:tester**
 
-(Tips: All default users' initial password is "tester", you can login other default users' account: test(1~6)@test.com )
+< Tips: All default users' initial password is "tester", you can login other default users' account: test(1~6)@test.com >
 
+You also can sign-up a new account, your account will auto-login after signup successfully.
 
 
 -----------
