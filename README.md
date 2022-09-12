@@ -5,7 +5,7 @@
 
 This Web Application's name is sharePlacesApp.
 
-**It is a fullstack React.js application with Node.js, Express.js & MongoDB (MERN).**
+**I built this fullstack React.js application with Node.js, Express.js & MongoDB (MERN).**
 
 It is an amazing Web application for Real Time photo sharing, which is similar to apps like Instagram in function. You can create your own account (password will be hashed) and post the pictures you want to share on your own homepage. The application also allows you to edit and delete your own images. Meanwhile, the GoogleMap API will automatically locate your typed address on the map, and anyone can view the Google Map location corresponding to each picture.
 
