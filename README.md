@@ -60,7 +60,7 @@ You can login default user1 's account : Email: test1@test.com ， Password:test
 
 As a visitor, you can enter other user's homepage, view their posted picture and click the "View On Map" button to check the location on Google Map. But visitor can not edit/delete other user's places.
 
-- 2、Signup & Signin
+- 2、User Signup & Signin
 
  You can click "Authentication" button at the top right to signup/login. If you signup, you will login automatically.
 
