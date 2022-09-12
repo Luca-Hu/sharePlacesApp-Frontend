@@ -9,7 +9,7 @@ This Web Application's name is sharePlacesApp.
 
 It is an amazing Web application for Real Time photo sharing, which is similar to apps like Instagram in function. You can create your own account (password will be hashed) and post the pictures you want to share on your own homepage. The application also allows you to edit and delete your own images. Meanwhile, the GoogleMap API will automatically locate your typed address on the map, and anyone can view the Google Map location corresponding to each picture.
 
-It has been deployed on Heroku, so you can access it through the link below:
+This web application has been deployed on Heroku, so you can access it through the link below:
 
 https://shareplacesappyihu.web.app/
 
@@ -104,7 +104,7 @@ The application uses the site Token to maintain auto-login and auto-logout withi
 
 // --------------------------------------
 
-5、If you have any questions or advices, please let me know.
+5、If you have any questions or advices, please feel free to contact me.
 
 My Linken Account： www.linkedin.com/in/yi-hu-58852321a
 
